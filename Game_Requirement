@@ -1,0 +1,11 @@
+Snake Game design Requirement
+
+1.Draw the playing area with bounding rectangle, set the counter to zero
+and display it.
+2.Draw the snake in a starting position.
+3.Draw the food in a starting location.
+4.On user input, change snake direction.
+5.Move the snake one move
+6.If the snake is over food, eat it, increase the score, grow, move the
+food,
+7.the snake is over itself or in a wall, die.
